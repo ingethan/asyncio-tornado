@@ -1,0 +1,3 @@
+celery worker -A celery_app.app -l info -Q aio-queue,celery -P eventlet -E
+
+-P eventlet   解决window无法运行

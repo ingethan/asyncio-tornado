@@ -1,2 +1,2 @@
 # asyncio-tornado
-asyncio, tornado, motor, peewee_async, aio_pika, aio_redis...
+asyncio, tornado, celery, motor, peewee_async, aio_pika, aio_redis
